@@ -3,6 +3,16 @@ body {
   margin: 0;
 }
 
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
 #page-logo a {
   padding: 10px;
   font-family: "Oleo Script", sans-serif;
